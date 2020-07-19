@@ -1,6 +1,6 @@
 ### ORGANISATIONAL API
 ##### Ray Chengole
-##### 20/2/2020
+##### 17/7/2020
 
 ## Description
 An API for getting news and information on departments and employees in a specific organization.
