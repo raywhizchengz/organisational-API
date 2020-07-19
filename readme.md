@@ -5,10 +5,6 @@
 ## Description
 An API for getting news and information on departments and employees in a specific organization.
 
-## Link to the repository on GitHub
-
-[githublink](https://github.com/Louis-crypto/organizational-API/tree/feature/department)
-
 ## Prerequisites
 
 1. PostgreSQL
@@ -37,4 +33,4 @@ If you have postgres installed simply run the command (psql < create.sql to crea
 
 MIT License
 
-Copyright (c) 2019
+Copyright (c) 2020
